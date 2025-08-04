@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/naelandrade/Naelandrade/blob/main/Logo.png" alt="Cybersecurity Banner" width="80%">
 </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E1DA7&background=0E1DA7&width=435&lines=Empowering+digital+resilience+through+ethical+cybersecurity;In+a+world+full+of+threats%2C+be+the+shield" alt="Typing SVG" /></a>
 <p align="center">
   <b>Profissional de Segurança da Informação</b><br>
   <i>Protegendo sistemas, redes e dados com ética e excelência</i>
