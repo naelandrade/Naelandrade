@@ -23,7 +23,7 @@ Atualmente, sou <strong>Analista de Segurança da Informação</strong> com expe
  
  &nbsp;
 
- ## 🌟 Check Out My Portfolio!
+ ## 🛡️ Check Out My Portfolio!
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Now!-brightgreen?style=for-the-badge)](https://Naelandrade.netlify.app/)
 
